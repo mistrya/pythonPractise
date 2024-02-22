@@ -1,0 +1,17 @@
+# Terminal Environment Changes
+
+## Extension: GitHub.codespaces
+
+- `CODESPACE_VSCODE_FOLDER=/workspaces/pythonPractise/FirstProject`
+
+## Extension: vscode.git
+
+Enables the following features: git auth provider
+
+Enables the following features: git auth provider (workspace)
+
+- `GIT_ASKPASS=/vscode/bin/linux-x64/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/askpass.sh`
+- `VSCODE_GIT_ASKPASS_NODE=/vscode/bin/linux-x64/903b1e9d8990623e3d7da1df3d33db3e42d80eda/node`
+- `VSCODE_GIT_ASKPASS_EXTRA_ARGS=`
+- `VSCODE_GIT_ASKPASS_MAIN=/vscode/bin/linux-x64/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/askpass-main.js`
+- `VSCODE_GIT_IPC_HANDLE=/tmp/vscode-git-d3930bcc49.sock`
